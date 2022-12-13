@@ -2,7 +2,7 @@
 
 In my exploration for learning the programming language C++, I created a math quiz program. In this program I have the user take a quiz that generates random math problems. The quiz will end once the user gives the wrong answer. Once the quiz ends, the user will be shown how many questions they got right as well as a history of all the questions they saw (from newest to oldest). Making this program has helped me learn and understand C++ and how it differentiates as a low-level language from some of the other programs I have already learned like c#.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/6eYGOWmTzNU)
 
 # Development Environment
 
